@@ -48,6 +48,14 @@ img {
     text-decoration: none;
 }
 
-.button-1:hover {
+.btn:hover {
     background-color: orangered;
+}
+table{
+    justify-self: center;
+    margin: 30px 300px;
+}
+table>img{
+    height: 80px !important;
+    width: 80px !important;
 }
